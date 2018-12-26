@@ -4,6 +4,8 @@ Repo to store analysis aimed to answer the question "what are the best programmi
 * which programming languages have you used
 * which language would you like to use in the future
 
+The results of this analysis are discussed in a article at: https://medium.com/@jameshenzi/top-programming-languages-aspiring-software-developer-should-know-b8af52d1d3e7
+
 ## Getting started
 
 Jupyter notebooks was used to document the code and thought process.  To replicate analysis refer to prerequisites for conda environment and raw data source.
