@@ -9,9 +9,9 @@ Repo to store analysis aimed to investigate what are hte best programming langua
 The summary of findings are:
 * Current usage is dominated by staple programming languages like Java, SQL,C. Python, and PHP.
 * Investigating languages desired to be utilized found up and coming languages like Go and Swift popping into the top 10.
-* Analysis by extent of coding experience showed no more differences in language current or desired future usage between groups.
+* Analysis by extent of coding experience showed no major differences in language current or desired future usage between groups.
 
-Detailed discussion of the analysis results can be in an article at: https://medium.com/@jameshenzi/top-programming-languages-aspiring-software-developer-should-know-b8af52d1d3e7
+Detailed discussion of the analysis results can be found in an article at: https://medium.com/@jameshenzi/top-programming-languages-aspiring-software-developer-should-know-b8af52d1d3e7
 
 
 
